@@ -1,3 +1,4 @@
 *.conf
 .metals
 .vscode
+/_old_exercise
