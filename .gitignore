@@ -1,3 +1,5 @@
 *.conf
 .metals
 .vscode
+.scala-build
+.log
